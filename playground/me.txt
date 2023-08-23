@@ -1,5 +1,0 @@
-{{#user}}
-Name: Anuj Mishr
-Skills: HTML, CSS, JS, React.js,React Native,Bootstrap,MERN stack
-Email: anujmishra94666@gmail.com
-{{/user}}
